@@ -1,0 +1,7 @@
+{
+    "protein": "TP53",
+    "length": 60,
+    "mutation": "R175H",
+    "embedding_size": 320,
+    "mutation_score": 0.7843443155288696
+}
