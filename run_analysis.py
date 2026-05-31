@@ -13,7 +13,7 @@ args = parser.parse_args()
 record = SeqIO.read(args.fasta, "fasta")
 
 sequence = str(record.seq)
-
+print("New start")
 print("Protein Loaded")
 print("Name:", record.id)
 print("Length:", len(sequence))
